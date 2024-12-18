@@ -1,2 +1,1 @@
-# loyihalar-oo1
-Bu yerda mening birnchi kodlarim yozilib boriladi!
+Здесь пишу уроки про пайтон. Дополняю время от времени.  
